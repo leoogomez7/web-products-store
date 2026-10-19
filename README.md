@@ -48,10 +48,10 @@ El proyecto está desarrollado sobre una arquitectura moderna, modular y eficien
 # ⚙️ Requisitos Previos
 Para editar, probar o desplegar este proyecto localmente solo necesitas contar con un entorno web básico o tu editor de código de preferencia (como Visual Studio Code).
 
-🚀 Instalación y Uso Local
+```🚀 Instalación y Uso Local
 Clonar el repositorio:
 
-```Bash
+Bash
 git clone https://github.com/leoogomez7/web-products.git
 cd web-products/web-products-main
 Ejecutar el proyecto:
